@@ -19,5 +19,7 @@
     "mpc": ["ftp://ftp.gnu.org/gnu/mpc/"],
     "mpfr": ["http://www.mpfr.org/mpfr-current/"],
     "glibc": ["http://ftp.gnu.org/gnu/glibc/"],
-    "glibc_ports": ["http://ftp.gnu.org/gnu/glibc/"]
+    "glibc_ports": ["http://ftp.gnu.org/gnu/glibc/"],
+    "binutils": ["http://ftp.uni-hannover.de/pub/mirror/gnu/gnu/binutils/"],
+    "linux": ["http://ftp.hosteurope.de/mirror/ftp.kernel.org/pub/linux/kernel/v4.x/"]
 }
